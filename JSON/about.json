@@ -1,0 +1,20 @@
+[ 
+    {
+        "name" : "David Zuain",
+        "Profession" : "Full Stack Developer",
+        "photo" : "url",
+        "about_me" : "Im  ",
+        "skills" : 
+        [
+            "Javascript",
+            "React",
+            "NodeJS",
+            "HTML",
+            "CSS",
+            "MySQL",
+            "MongoDB"
+        ]
+
+
+    }
+]
