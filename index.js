@@ -10,6 +10,9 @@ const portfolio = require('./JSON/portfolio.json')
 
 app.use(cors());
 
+app.get('/', (req, res) => {
+    res.send('Main page for PortFolio deployment')
+})
 
 app.get('/about', (req, res) => {
     res.json(about)
